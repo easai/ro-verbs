@@ -1,0 +1,342 @@
+[
+    {
+        "title": "Present Tense",
+        "table": {
+            "1st Person": {
+                "Singular": {
+                    "text": "I [eu ajut]",
+                    "question": "eu",
+                    "answer": "ajut",
+                    "audio": ""
+                },
+                "Plural": {
+                    "text": "We [noi ajutăm]",
+                    "question": "noi",
+                    "answer": "ajutăm",
+                    "audio": ""
+                }
+            },
+            "2nd Person": {
+                "Singular": {
+                    "text": "You [tu ajuți]",
+                    "question": "tu",
+                    "answer": "ajuți",
+                    "audio": ""
+                },
+                "Plural": {
+                    "text": "You [voi ajutați]",
+                    "question": "voi",
+                    "answer": "ajutați",
+                    "audio": ""
+                }
+            },
+            "3rd Person": {
+                "Singular": {
+                    "text": "He/She [el/ea ajută]",
+                    "question": "el/ea",
+                    "answer": "ajută",
+                    "audio": ""
+                },
+                "Plural": {
+                    "text": "They [ei/ele ajută]",
+                    "question": "ei/ele",
+                    "answer": "ajută",
+                    "audio": ""
+                }
+            }
+        },
+        "desc": "The Romanian present tense of 'a ajuta' is used to describe current actions or states of being.",
+        "test": {
+            "1s": [
+                "ajut",
+                "eu ___ pe prietenul meu.",
+                "I help my friend."
+            ],
+            "3s": [
+                "ajută",
+                "el/ea ___ pe colegul său.",
+                "He/She helps his/her colleague."
+            ],
+            "1p": [
+                "ajutăm",
+                "noi ___ pe vecinii noștri.",
+                "We help our neighbors."
+            ],
+            "3p": [
+                "ajută",
+                "ei/ele ___ pe toată lumea.",
+                "They help everyone."
+            ]
+        }
+    },
+    {
+        "title": "Present Tense - a vedea (to see)",
+        "table": {
+            "1st Person": {
+                "Singular": {
+                    "text": "I [eu văd]",
+                    "question": "eu",
+                    "answer": "văd",
+                    "audio": ""
+                },
+                "Plural": {
+                    "text": "We [noi vedem]",
+                    "question": "noi",
+                    "answer": "vedem",
+                    "audio": ""
+                }
+            },
+            "2nd Person": {
+                "Singular": {
+                    "text": "You [tu vezi]",
+                    "question": "tu",
+                    "answer": "vezi",
+                    "audio": ""
+                },
+                "Plural": {
+                    "text": "You [voi vedeți]",
+                    "question": "voi",
+                    "answer": "vedeți",
+                    "audio": ""
+                }
+            },
+            "3rd Person": {
+                "Singular": {
+                    "text": "He/She [el/ea vede]",
+                    "question": "el/ea",
+                    "answer": "vede",
+                    "audio": ""
+                },
+                "Plural": {
+                    "text": "They [ei/ele văd]",
+                    "question": "ei/ele",
+                    "answer": "văd",
+                    "audio": ""
+                }
+            }
+        },
+        "desc": "The Romanian present tense of 'a vedea' is used to describe current actions or states of being.",
+        "test": {
+            "1s": ["văd", "eu ___ un film.", "I see a movie."],
+            "3s": ["vede", "el/ea ___ un prieten.", "He/She sees a friend."],
+            "1p": ["vedem", "noi ___ un peisaj frumos.", "We see a beautiful landscape."],
+            "3p": ["văd", "ei/ele ___ stelele.", "They see the stars."]
+        }
+    },
+    {
+        "title": "Present Tense - a înțelege (to understand)",
+        "table": {
+            "1st Person": {
+                "Singular": {
+                    "text": "I [eu înțeleg]",
+                    "question": "eu",
+                    "answer": "înțeleg",
+                    "audio": ""
+                },
+                "Plural": {
+                    "text": "We [noi înțelegem]",
+                    "question": "noi",
+                    "answer": "înțelegem",
+                    "audio": ""
+                }
+            },
+            "2nd Person": {
+                "Singular": {
+                    "text": "You [tu înțelegi]",
+                    "question": "tu",
+                    "answer": "înțelegi",
+                    "audio": ""
+                },
+                "Plural": {
+                    "text": "You [voi înțelegeți]",
+                    "question": "voi",
+                    "answer": "înțelegeți",
+                    "audio": ""
+                }
+            },
+            "3rd Person": {
+                "Singular": {
+                    "text": "He/She [el/ea înțelege]",
+                    "question": "el/ea",
+                    "answer": "înțelege",
+                    "audio": ""
+                },
+                "Plural": {
+                    "text": "They [ei/ele înțeleg]",
+                    "question": "ei/ele",
+                    "answer": "înțeleg",
+                    "audio": ""
+                }
+            }
+        },
+        "desc": "The Romanian present tense of 'a înțelege' is used to describe current actions or states of being.",
+        "test": {
+            "1s": ["înțeleg", "eu ___ lecția.", "I understand the lesson."],
+            "3s": ["înțelege", "el/ea ___ problema.", "He/She understands the problem."],
+            "1p": ["înțelegem", "noi ___ instrucțiunile.", "We understand the instructions."],
+            "3p": ["înțeleg", "ei/ele ___ situația.", "They understand the situation."]
+        }
+    },
+    {
+        "title": "Present Tense - a vorbi (to speak)",
+        "table": {
+            "1st Person": {
+                "Singular": {
+                    "text": "I [eu vorbesc]",
+                    "question": "eu",
+                    "answer": "vorbesc",
+                    "audio": ""
+                },
+                "Plural": {
+                    "text": "We [noi vorbim]",
+                    "question": "noi",
+                    "answer": "vorbim",
+                    "audio": ""
+                }
+            },
+            "2nd Person": {
+                "Singular": {
+                    "text": "You [tu vorbești]",
+                    "question": "tu",
+                    "answer": "vorbești",
+                    "audio": ""
+                },
+                "Plural": {
+                    "text": "You [voi vorbiți]",
+                    "question": "voi",
+                    "answer": "vorbiți",
+                    "audio": ""
+                }
+            },
+            "3rd Person": {
+                "Singular": {
+                    "text": "He/She [el/ea vorbește]",
+                    "question": "el/ea",
+                    "answer": "vorbește",
+                    "audio": ""
+                },
+                "Plural": {
+                    "text": "They [ei/ele vorbesc]",
+                    "question": "ei/ele",
+                    "answer": "vorbesc",
+                    "audio": ""
+                }
+            }
+        },
+        "desc": "The Romanian present tense of 'a vorbi' is used to describe current actions or states of being.",
+        "test": {
+            "1s": ["vorbesc", "eu ___ română.", "I speak Romanian."],
+            "3s": ["vorbește", "el/ea ___ engleză.", "He/She speaks English."],
+            "1p": ["vorbim", "noi ___ despre proiect.", "We speak about the project."],
+            "3p": ["vorbesc", "ei/ele ___ multe limbi.", "They speak many languages."]
+        }
+    },
+    {
+        "title": "Present Tense - a fi (to be)",
+        "table": {
+            "1st Person": {
+                "Singular": {
+                    "text": "I [eu sunt]",
+                    "question": "eu",
+                    "answer": "sunt",
+                    "audio": ""
+                },
+                "Plural": {
+                    "text": "We [noi suntem]",
+                    "question": "noi",
+                    "answer": "suntem",
+                    "audio": ""
+                }
+            },
+            "2nd Person": {
+                "Singular": {
+                    "text": "You [tu ești]",
+                    "question": "tu",
+                    "answer": "ești",
+                    "audio": ""
+                },
+                "Plural": {
+                    "text": "You [voi sunteți]",
+                    "question": "voi",
+                    "answer": "sunteți",
+                    "audio": ""
+                }
+            },
+            "3rd Person": {
+                "Singular": {
+                    "text": "He/She [el/ea este]",
+                    "question": "el/ea",
+                    "answer": "este",
+                    "audio": ""
+                },
+                "Plural": {
+                    "text": "They [ei/ele sunt]",
+                    "question": "ei/ele",
+                    "answer": "sunt",
+                    "audio": ""
+                }
+            }
+        },
+        "desc": "The Romanian present tense of 'a fi' is used to describe current actions or states of being.",
+        "test": {
+            "1s": ["sunt", "eu ___ fericit.", "I am happy."],
+            "3s": ["este", "el/ea ___ student.", "He/She is a student."],
+            "1p": ["suntem", "noi ___ prieteni.", "We are friends."],
+            "3p": ["sunt", "ei/ele ___ doctori.", "They are doctors."]
+        }
+    },
+    {
+        "title": "Present Tense - a avea (to have)",
+        "table": {
+            "1st Person": {
+                "Singular": {
+                    "text": "I [eu am]",
+                    "question": "eu",
+                    "answer": "am",
+                    "audio": ""
+                },
+                "Plural": {
+                    "text": "We [noi avem]",
+                    "question": "noi",
+                    "answer": "avem",
+                    "audio": ""
+                }
+            },
+            "2nd Person": {
+                "Singular": {
+                    "text": "You [tu ai]",
+                    "question": "tu",
+                    "answer": "ai",
+                    "audio": ""
+                },
+                "Plural": {
+                    "text": "You [voi aveți]",
+                    "question": "voi",
+                    "answer": "aveți",
+                    "audio": ""
+                }
+            },
+            "3rd Person": {
+                "Singular": {
+                    "text": "He/She [el/ea are]",
+                    "question": "el/ea",
+                    "answer": "are",
+                    "audio": ""
+                },
+                "Plural": {
+                    "text": "They [ei/ele au]",
+                    "question": "ei/ele",
+                    "answer": "au",
+                    "audio": ""
+                }
+            }
+        },
+        "desc": "The Romanian present tense of 'a avea' is used to describe current actions or states of being.",
+        "test": {
+            "1s": ["am", "eu ___ o carte.", "I have a book."],
+            "3s": ["are", "el/ea ___ un prieten.", "He/She has a friend."],
+            "1p": ["avem", "noi ___ o idee.", "We have an idea."],
+            "3p": ["au", "ei/ele ___ multe întrebări.", "They have many questions."]
+        }
+    }
+]
